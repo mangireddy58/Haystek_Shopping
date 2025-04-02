@@ -28,3 +28,4 @@ This is a simple iOS app that displays a list of items fetched from an API. User
 - View cart and checkout with a "Thank You" popup message will display.
 - Fetching the user address based on current location and displaying. 
 - To see the user current address run this project in the real time device.
+- Add privacy location description for user address.
