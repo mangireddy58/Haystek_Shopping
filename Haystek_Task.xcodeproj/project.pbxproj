@@ -90,7 +90,6 @@
 			children = (
 				E0D7B8982D9C2BFC008D1CC7 /* Assets.xcassets */,
 				E0D7B8B32D9C2C53008D1CC7 /* AppDelegate */,
-				E0D7B8AE2D9C2C53008D1CC7 /* Base.lproj */,
 				E0D7B8C12D9C2C53008D1CC7 /* Model */,
 				E0D7B8BF2D9C2C53008D1CC7 /* Utility */,
 				E0D7B8AD2D9C2C53008D1CC7 /* View */,
@@ -128,13 +127,6 @@
 				E0D7B8AC2D9C2C53008D1CC7 /* Xib's */,
 			);
 			path = View;
-			sourceTree = "<group>";
-		};
-		E0D7B8AE2D9C2C53008D1CC7 /* Base.lproj */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Base.lproj;
 			sourceTree = "<group>";
 		};
 		E0D7B8B02D9C2C53008D1CC7 /* ViewModels */ = {
