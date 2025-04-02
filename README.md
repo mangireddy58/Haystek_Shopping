@@ -1,4 +1,14 @@
-# My Simple Shop App
+# My Simple Shopping App
+
+# Steps to run the project
+    1. Clone the Repository
+    2. Open the Project in Xcode (Version 15.4 or Later Required)
+    3. Navigate to the cloned project folder.
+    4. Double-click on Haystek_Task.xcodeproj to open it in Xcode 15.4 or later.
+    5. In Xcode, click on the device selector in the top-left corner.
+    6. Choose a Simulator (e.g., iPhone 15 Pro) or a physical device (if connected).
+    7. Build and Run the Project.
+    8. Ensure the project compiles successfully.
 
 This is a simple iOS app that displays a list of items fetched from an API. Users can interact with the items, add them to the cart, and perform checkout.
 
@@ -16,3 +26,5 @@ This is a simple iOS app that displays a list of items fetched from an API. User
 - Add/remove items from the cart using a favourite icon.
 - Dynamic cart functionality implemented. 
 - View cart and checkout with a "Thank You" popup message will display.
+- Fetching the user address based on current location and displaying. 
+- To see the user current address run this project in the real time device.
