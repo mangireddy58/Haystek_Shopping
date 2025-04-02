@@ -1042,6 +1042,11 @@
                     <tabBarItem key="tabBarItem" title="Home" image="house" catalog="system" selectedImage="house" id="qKj-LX-3Pq">
                         <inset key="imageInsets" minX="230" minY="240" maxX="230" maxY="240"/>
                         <offsetWrapper key="titlePositionAdjustment" horizontal="0.0" vertical="8"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="color" keyPath="tintColor">
+                                <color key="value" red="0.79607843140000001" green="0.89411764709999997" blue="0.28627450980000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
                     </tabBarItem>
                     <connections>
                         <outlet property="addressLabel" destination="7ZS-Nt-PyI" id="BBk-TA-kSX"/>
@@ -1070,6 +1075,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="390" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="selectedImageTintColor" red="0.79607843140000001" green="0.89411764709999997" blue="0.28627450980000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </tabBar>
                     <connections>
                         <segue destination="iY2-lG-1cX" kind="relationship" relationship="viewControllers" id="A9S-cy-8dM"/>
